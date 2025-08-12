@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://baseofclans.blogspot.com/atom.xml?redirect=false&start-index=1&max-results=500</loc>
+    <loc>https://baseofclans.blogspot.com/atom.xml?redirect=false&amp;start-index=1&amp;max-results=500</loc>
   </sitemap>
   <sitemap>
-    <loc>https://baseofclans.blogspot.com/atom.xml?redirect=false&start-index=501&max-results=500</loc>
+    <loc>https://baseofclans.blogspot.com/atom.xml?redirect=false&amp;start-index=501&amp;max-results=500</loc>
   </sitemap>
   <sitemap>
-    <loc>https://baseofclans.blogspot.com/atom.xml?redirect=false&start-index=1001&max-results=500</loc>
+    <loc>https://baseofclans.blogspot.com/atom.xml?redirect=false&amp;start-index=1001&amp;max-results=500</loc>
   </sitemap>
 </sitemapindex>
